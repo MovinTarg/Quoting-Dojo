@@ -1,0 +1,20 @@
+@{
+    ViewData["Title"] = "Quotes";
+}
+
+<h1>Here are the awesome quotes!</h1>
+<div class="dojo_quotes">
+    @if (@ViewBag.quotes == null)
+    {
+        <h1>There are no quotes yet!</h1>
+    }
+    else
+    {
+        @foreach(var quote in @ViewBag.quotes)
+        {
+            <p>@quote["quote"]</p>
+            <p>@quote["name"]    |    @quote["created_at"]</p>
+        }
+    }
+</div>
+

@@ -1,0 +1,10 @@
+C:\Users\Pete\Desktop\DojoAssignments\netCore\asp.net_core_intermediate\quoting dojo\bin\Debug\netcoreapp2.0\quoting dojo.deps.json
+C:\Users\Pete\Desktop\DojoAssignments\netCore\asp.net_core_intermediate\quoting dojo\bin\Debug\netcoreapp2.0\quoting dojo.runtimeconfig.json
+C:\Users\Pete\Desktop\DojoAssignments\netCore\asp.net_core_intermediate\quoting dojo\bin\Debug\netcoreapp2.0\quoting dojo.runtimeconfig.dev.json
+C:\Users\Pete\Desktop\DojoAssignments\netCore\asp.net_core_intermediate\quoting dojo\bin\Debug\netcoreapp2.0\quoting dojo.dll
+C:\Users\Pete\Desktop\DojoAssignments\netCore\asp.net_core_intermediate\quoting dojo\bin\Debug\netcoreapp2.0\quoting dojo.pdb
+C:\Users\Pete\Desktop\DojoAssignments\netCore\asp.net_core_intermediate\quoting dojo\obj\Debug\netcoreapp2.0\quoting dojo.csproj.CoreCompileInputs.cache
+C:\Users\Pete\Desktop\DojoAssignments\netCore\asp.net_core_intermediate\quoting dojo\obj\Debug\netcoreapp2.0\quoting dojo.AssemblyInfoInputs.cache
+C:\Users\Pete\Desktop\DojoAssignments\netCore\asp.net_core_intermediate\quoting dojo\obj\Debug\netcoreapp2.0\quoting dojo.AssemblyInfo.cs
+C:\Users\Pete\Desktop\DojoAssignments\netCore\asp.net_core_intermediate\quoting dojo\obj\Debug\netcoreapp2.0\quoting dojo.dll
+C:\Users\Pete\Desktop\DojoAssignments\netCore\asp.net_core_intermediate\quoting dojo\obj\Debug\netcoreapp2.0\quoting dojo.pdb
